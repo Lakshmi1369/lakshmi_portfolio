@@ -57,4 +57,4 @@ This is a static site, so it works on any static host:
 - LinkedIn: [linkedin.com/in/lakshmisesetti](https://www.linkedin.com/in/lakshmisesetti)
 - LeetCode: [leetcode.com/u/Lakshmi1369](https://leetcode.com/u/Lakshmi1369/)
 - HackerRank: [hackerrank.com/profile/lakshmisesetti21](https://www.hackerrank.com/profile/lakshmisesetti21)
-- GitHub: _add your profile link here_
+- GitHub:[ https://github.com/Lakshmi1369)
